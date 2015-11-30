@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pixel Bazaar]]></title>
         <description><![CDATA[Pixel Bazaar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pixel-bazaar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 12:05:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 12:07:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pixel-bazaar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/pixel-bazaar/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e288cbdc-47b2-48d0-a352-c8994cb656d8</guid>
-            <pubDate>Mon, 30 Nov 2015 12:05:41 GMT</pubDate>
+            <pubDate>Mon, 30 Nov 2015 12:05:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
