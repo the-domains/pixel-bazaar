@@ -1,7 +1,7 @@
 name: Pixel Bazaar
 favicon: null
-layout_spectrum: 0.00169
-typography_spectrum: 0.63766
+layout_spectrum: 0.26546
+typography_spectrum: 0.25536
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6578741087578237
-  lightness: 0.8634657973889261
-  saturation: 0.33259006682783365
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.75
   rhythmicContrast: 0.026342032477259636
 purpose: []
